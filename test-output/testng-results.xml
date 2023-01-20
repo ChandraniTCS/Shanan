@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T12:41:47 IST" name="Suite" finished-at="2023-01-07T12:42:11 IST" duration-ms="24468">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T12:41:47 IST" name="Test1" finished-at="2023-01-07T12:41:59 IST" duration-ms="12611">
+      <class name="testNG.Compatibility5">
+        <test-method signature="tc(java.lang.String)[pri:0, instance:testNG.Compatibility5@2e005c4b]" started-at="2023-01-07T12:41:47 IST" name="tc" finished-at="2023-01-07T12:41:59 IST" duration-ms="12540" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- testNG.Compatibility5 -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-01-07T12:41:47 IST" name="Test2" finished-at="2023-01-07T12:42:05 IST" duration-ms="18078">
+      <class name="testNG.Compatibility5">
+        <test-method signature="tc(java.lang.String)[pri:0, instance:testNG.Compatibility5@293a5bf6]" started-at="2023-01-07T12:41:47 IST" name="tc" finished-at="2023-01-07T12:42:05 IST" duration-ms="18015" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- testNG.Compatibility5 -->
+    </test> <!-- Test2 -->
+    <test started-at="2023-01-07T12:41:47 IST" name="Test3" finished-at="2023-01-07T12:42:11 IST" duration-ms="24468">
+      <class name="testNG.Compatibility5">
+        <test-method signature="tc(java.lang.String)[pri:0, instance:testNG.Compatibility5@3c19aaa5]" started-at="2023-01-07T12:41:47 IST" name="tc" finished-at="2023-01-07T12:42:11 IST" duration-ms="24402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- testNG.Compatibility5 -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>
