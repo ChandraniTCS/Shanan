@@ -18,6 +18,7 @@ public class Google2 {
 		File src = abc.getScreenshotAs(OutputType.FILE);
 		File dest = new File("C:\\Users\\ravi9\\Desktop\\ScreenShot\\PAmazone1.jpg");
 		Files.copy(src, dest);
+		system.out.println(" comments from Github");
 		
 	}
 
