@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>practice</name>
+=======
+	<name>Cucumber</name>
+>>>>>>> branch 'master' of https://github.com/ChandraniTCS/Shanan.git
 	<comment></comment>
 	<projects>
 	</projects>
