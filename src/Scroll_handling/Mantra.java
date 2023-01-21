@@ -17,6 +17,7 @@ public class Mantra {
 		//scroll up
 		Thread.sleep(4000);
 		jse.executeScript("window.scrollBy(0,-2000);");
+		system.out.println("from github");
 	
 	}
 }
