@@ -19,6 +19,7 @@ public class Google2 {
 		File dest = new File("C:\\Users\\ravi9\\Desktop\\ScreenShot\\PAmazone1.jpg");
 		Files.copy(src, dest);
 		system.out.println(" comments from Github");
+		System.out.println("github");
 		
 	}
 
